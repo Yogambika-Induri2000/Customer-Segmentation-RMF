@@ -1,7 +1,3 @@
-
-
-#Dataset Source : https://www.kaggle.com/datasets/fareselgohary003/online-retail-transactions-uci
-
 # Customer Segmentation: RFM Analysis in Python
 
 ## 📌 Project Overview
